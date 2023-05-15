@@ -39,5 +39,6 @@ I downloaded snakes_count_1000.csv. for this project.
 
 `game = pd.read_csv(r"C:\Users\Megan Tran\Desktop\Megan's USB\College\Code\Python\Machine Learning\snakes_count_1000.csv")`
 
-## How to Use the Program
 ### Credits
+This project was inspired by Dataquest's tutorial
+> https://youtu.be/Hr06nSA-qww
