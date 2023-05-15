@@ -32,5 +32,12 @@ Languages/ Technologies used:
 
 I downloaded snakes_count_1000.csv. for this project.
 
+2. Ensure to import pandas
+` import pandas as pd `
+
+3. When opening csv file, save the file then right click on file in file explorer, click on "copy by path", and paste it into the code.
+
+`game = pd.read_csv(r"C:\Users\Megan Tran\Desktop\Megan's USB\College\Code\Python\Machine Learning\snakes_count_1000.csv")`
+
 ## How to Use the Program
 ### Credits
